@@ -6,6 +6,8 @@ deixo aqui umprojetinho pbx web criação exclusão e edição de ramais direto 
 
 antes nescessario a instalação do asterisk v13 ao v16
 
+
+
 configuração do dialplan, extension.conf
 
 [default]
@@ -102,18 +104,28 @@ penaltymemberslimit=0
 maxlen=0
 
 memberdelay=0
+
+
 ----------------------------------------------//-------------------------------------------//--------------------------------------//-----------------------------
 Inserir tabelas no banco. encontra-se na pasta (arquivos para subir no banco)
 
-Dar start nos modulos odbc
+
+
+carregar os modulos odbc no asterisk
 
 instalar mariadb mysql 
 
-ativar conexão manager do asterisk com db 
+ativar conexão manager do asterisk com db em /etc/asterisk/manager.conf
 
-------------------------------//-----------------------------------------------//-----------------------------------------------------------//------------
+
+
+----------------------------------------------------------------------------
+
+
 
 
 obrigado espero a contribuição de todos 
+
+
 
 by: Everton Santos | Asterisk Dev
