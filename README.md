@@ -59,8 +59,17 @@ ringinuse=yes
 penaltymemberslimit=0
 maxlen=0
 memberdelay=0
-----------------------------------------------//-------------------------------------------
+----------------------------------------------//-------------------------------------------//--------------------------------------//-----------------------------
 Inserir tabelas no banco. encontra-se na pasta (arquivos para subir no banco)
+
+Dar start nos modulos odbc
+
+instalar mariadb mysql 
+
+ativar conexão manager do asterisk com db 
+
+------------------------------//-----------------------------------------------//-----------------------------------------------------------//------------
+
 
 obrigado espero a contribuição de todos 
 
