@@ -1,8 +1,10 @@
-# Asterisk Dashboard PABX WEB
+# Asterisk Com Dashboard PABX WEB
+
+
 
 Fala meus queridos 
 
-deixo aqui umprojetinho pbx web criação exclusão e edição de ramais direto do banco 
+deixo aqui um projetinho pbx web criação exclusão e edição de ramais direto do banco 
 
 antes nescessario a instalação do asterisk v13 ao v16
 
